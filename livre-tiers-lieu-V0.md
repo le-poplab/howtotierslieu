@@ -30,7 +30,7 @@ Les 13 auteurs contributeurs sont (par ordre alphabétique) : Emilie Bouvier, La
 
 Ce travail est mis à disposition sous licence Creative Commons ce qui vous permet de les partager et de le réutiliser librement selon les conditions suivantes: **Paternité - Partage dans les Mêmes Conditions 3.0 France (CC BY-SA 3.0).**
 
-![](cc-by-sa.png)
+![](creative-commons-by-sa.png)
 
 Ceci est le résumé explicatif &quot;lisible par les humains&quot; du [Code Juridique (la version intégrale de la licence).](http://creativecommons.org/licenses/by-sa/3.0/fr/legalcode)
 
