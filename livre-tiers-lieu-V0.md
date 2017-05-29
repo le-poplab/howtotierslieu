@@ -36,20 +36,20 @@ Ceci est le résumé explicatif &quot;lisible par les humains&quot; du [Code Jur
 
 Vous êtes libre de :
 
-- ****** Partager** — reproduire, distribuer et communiquer l'œuvre
-- ****** Remixer** — adapter l'oeuvre et utiliser cette œuvre à des fins commerciales
+- ** Partager** — reproduire, distribuer et communiquer l'œuvre
+- ** Remixer** — adapter l'oeuvre et utiliser cette œuvre à des fins commerciales
 
 Selon les conditions suivantes :
 
-- ****** Attribution** — Vous devez attribuer l'oeuvre de la manière indiquée par l'auteur de l'œuvre ou le titulaire des droits (mais pas d'une manière qui suggérerait qu'ils vous approuvent, vous ou votre utilisation de l'œuvre).
-- ****** Partage dans les Mêmes Conditions** — Si vous modifiez, transformez ou adaptez cette oeuvre, vous n'avez le droit de distribuer votre création que sous une licence identique ou similaire à celle-ci.
+- ** Attribution** — Vous devez attribuer l'oeuvre de la manière indiquée par l'auteur de l'œuvre ou le titulaire des droits (mais pas d'une manière qui suggérerait qu'ils vous approuvent, vous ou votre utilisation de l'œuvre).
+- ** Partage dans les Mêmes Conditions** — Si vous modifiez, transformez ou adaptez cette oeuvre, vous n'avez le droit de distribuer votre création que sous une licence identique ou similaire à celle-ci.
 
 Si vous souhaitez copier, modifier, améliorer ce document, le fichier source est disponible au format markdown à l'adresse suivante:
 
 [https://github.com/popuplille/howtotierslieu](https://github.com/popuplille/howtotierslieu)
 
 
-**[INTRODUCTION]**
+**INTRODUCTION**
 
 Vous avez entendu parler des tiers-lieux, et vous voulez en savoir plus sur leurs différentes &quot;fonctions&quot; ?
 
@@ -137,18 +137,18 @@ ACTIVITE #3 : Pourquoi voulez-vous devenir un tiers-lieu ?
 
 _CONSIGNE 1 : Dans la liste de propositions, choisissez la/les réponse/s où vous vous reconnaissez spontanément ou bien ajouter les vôtres :_
 
-- **** mutualiser (un espace d'activité, des outils...)
-- **** répondre à un appel à projet ou une demande de financement
-- **** travailler autrement
-- **** dynamiser un lieu existant
-- **** créer un espace de rencontre
-- **** de nos jours, il faut innover
-- **** croiser les disciplines/métiers/profils
-- **** réhabiliter un lieu désaffecté
-- **** s'ouvrir sur le quartier ou sur le territoire local
-- ****...
-- ****...
-- ****...
+- mutualiser (un espace d'activité, des outils...)
+- répondre à un appel à projet ou une demande de financement
+- travailler autrement
+- dynamiser un lieu existant
+- créer un espace de rencontre
+- de nos jours, il faut innover
+- croiser les disciplines/métiers/profils
+- réhabiliter un lieu désaffecté
+- s'ouvrir sur le quartier ou sur le territoire local
+- ...
+- ...
+- ...
 
 L'expérience nous montre que la **raison d'être** et le **sens** d'un projet sont déterminants pour le succès d'un projet de tiers-lieu.
 
@@ -208,7 +208,8 @@ Recette pour cette méthode : [http://www.multibao.org/#lilianricaud/travail-en-
 
 **1.3 - Une communauté**
 
-Intro : (cf dessin parchemin pour illustrer)![](parchemin.jpg)
+Intro : (cf dessin parchemin pour illustrer)
+![](parchemin.jpg)
 
 _Il n'y a pas de recette miracle ni de liste exhaustive, construisez votre communauté au fur et à mesure, musclez-la, regardez-la évoluer et laissez-la vous surprendre._
 
@@ -216,7 +217,9 @@ ACTIVITE #5 : Construisez votre communauté avec les Picto Cubes
 
 CONSIGNE : Puzzle façon Tangram, à découper, avec un espace pour le Prénom Nom de la personne, et pour sa ou ses compétences.
 
- ![](data:image/*;base64,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)
+Nom
+Prénom
+Compétence
 
 **7 pièces, plus de 1000 figures. A vous de jouer !**
 
