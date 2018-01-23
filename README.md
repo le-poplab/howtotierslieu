@@ -1,4 +1,4 @@
-# How-to Tiers-lieu
+# howtotierslieu
 
 **Ce dépôt a déménagé !**
 
